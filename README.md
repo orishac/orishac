@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Ori Shacham
 
 - 🌱 Software Engineering Student at Ben Gurion University of the Negev
+- Java/Python/C/C++/C#/JavaScript/TypeScript/Kotlin
+- Django/React
 - 📫 How to reach me: 
 <div id="badges">
   <a href="https://www.linkedin.com/in/ori-shacham-5b995131/">
