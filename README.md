@@ -10,3 +10,5 @@
   </a>
 </div>
 
+[![Send Email](https://img.shields.io/badge/Send%20Email-orishac@gmail.com-blue)](mailto:orishac@gmail.com)
+
